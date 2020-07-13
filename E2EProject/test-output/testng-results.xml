@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-10T21:40:36 IST" name="Suite" finished-at="2020-07-10T21:41:18 IST" duration-ms="41355">
+    <groups>
+    </groups>
+    <test started-at="2020-07-10T21:40:36 IST" name="Test" finished-at="2020-07-10T21:41:18 IST" duration-ms="41355">
+      <class name="EndtoEnd.E2EProject.HomePage">
+        <test-method is-config="true" signature="start()[pri:0, instance:EndtoEnd.E2EProject.HomePage@20bd8be5]" started-at="2020-07-10T21:40:36 IST" name="start" finished-at="2020-07-10T21:40:45 IST" duration-ms="8469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:EndtoEnd.E2EProject.HomePage@20bd8be5]" started-at="2020-07-10T21:41:00 IST" name="basePageNavigation" data-provider="getData" finished-at="2020-07-10T21:41:09 IST" duration-ms="9058" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mfkmgkf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mfmmgfm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:EndtoEnd.E2EProject.HomePage@20bd8be5]" started-at="2020-07-10T21:41:09 IST" name="basePageNavigation" data-provider="getData" finished-at="2020-07-10T21:41:17 IST" duration-ms="7993" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mfkmgkf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mfmmgfm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method is-config="true" signature="close()[pri:0, instance:EndtoEnd.E2EProject.HomePage@20bd8be5]" started-at="2020-07-10T21:41:17 IST" name="close" finished-at="2020-07-10T21:41:17 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- EndtoEnd.E2EProject.HomePage -->
+      <class name="EndtoEnd.E2EProject.ValidateTitile">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:EndtoEnd.E2EProject.ValidateTitile@730d2164]" started-at="2020-07-10T21:40:45 IST" name="open_browser" finished-at="2020-07-10T21:41:00 IST" duration-ms="15011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="basePageNavigation()[pri:0, instance:EndtoEnd.E2EProject.ValidateTitile@730d2164]" started-at="2020-07-10T21:41:17 IST" name="basePageNavigation" finished-at="2020-07-10T21:41:17 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:EndtoEnd.E2EProject.ValidateTitile@730d2164]" started-at="2020-07-10T21:41:17 IST" name="close_browser" finished-at="2020-07-10T21:41:18 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- EndtoEnd.E2EProject.ValidateTitile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
